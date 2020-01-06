@@ -1,2 +1,8 @@
 # serverless-aws-react
-Simple portfolio using react and aws serverless.
+Simple portfolio app using react and aws serverless.
+
+# Technology use
+React
+Brew
+Awscli
+
